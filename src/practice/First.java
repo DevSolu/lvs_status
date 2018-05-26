@@ -14,7 +14,7 @@ double h=234.2344;
 
 char char_var='A';
 String asd="asdh56657#$%akjsdh";
-
+System.out.println("Started Printing");
 System.out.println(char_var);
 System.out.println(asd);
 System.out.println(c);
